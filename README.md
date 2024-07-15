@@ -12,6 +12,8 @@ pip install torch torchvision torchaudio
 ```
 
 ```
+url = 'https://github.com/taekyounglee1224/Pytorch_DL.git'
+
 git clone {url}  #원격 저장소 로컬에 복제
 git pull origin  #원격 저장소 상태 로컬에 업데이트
 git push -u origin #원격 저장소에 로컬 업데이트
